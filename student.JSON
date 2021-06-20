@@ -1,0 +1,104 @@
+student = {
+        "_id" : 1,
+        "name" : {
+                "first" : "John",
+                "last" : "Backus"
+        },
+        "contribs" : [
+                "Fortran",
+                "ALGOL",
+                "Backus-Naur Form",
+                "FP"
+        ],
+        "awards" : [
+                {
+                        "award" : "W.W. McDowell Award",
+                        "year" : 1967,
+                        "by" : "IEEE Computer Society"
+                },
+                {
+                        "award" : "Draper Prize",
+                        "year" : 1993,
+                        "by" : "National Academy of Engineering"
+                }
+        ]
+}
+
+student = [
+  {
+        "_id" : 2,
+        "name" : {
+                "first" : "Lohn",
+                "last" : "Dackus"
+        },
+        "contribs" : [
+                "Fortran/COBOL",
+                "ALGOL/MIPS",
+                "Backus-Naur Form",
+                "FPT"
+        ],
+        "awards" : [
+                {
+                        "award" : "W.W. McDowell Award",
+                        "year" : 1968,
+                        "by" : "IEEE Computer Society"
+                },
+                {
+                        "award" : "Draper Prize",
+                        "year" : 1991,
+                        "by" : "National Academy of Engineering"
+                }
+        ]
+},
+
+  {
+        "_id" : 3,
+        "name" : {
+                "first" : "Lohnizat",
+                "last" : "Dackushin"
+        },
+        "contribs" : [
+                "Fortran/COBOL/D",
+                "ALGOL/MIPS/J",
+                "Backus-Naur Form ON",
+                "FPTCP"
+        ],
+        "awards" : [
+                {
+                        "award" : "McDowell Award",
+                        "year" : 1971,
+                        "by" : "IEC Computer Society"
+                },
+                {
+                        "award" : "Draper Prize",
+                        "year" : 1999,
+                        "by" : "National Academy of Engineering"
+                }
+        ]
+},
+
+
+{
+        "_id" : 4 ,
+        "name" : {
+                "first" : "Ohh",
+                "last" : "No"
+        },
+        "contribs" : [
+
+        ],
+        "awards" : [
+                {
+                        "award" : "McDowell Award",
+                        "year" : 1977,
+                        "by" : "Computer Society"
+                },
+                {
+                        "award" : "Pukitzar Prize",
+                        "year" : 1995,
+                        "by" : "National Academy Arts"
+                }
+        ]
+}
+
+] 

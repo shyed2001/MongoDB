@@ -1,0 +1,231 @@
+student = {
+        "_id" : 1,
+        "name" : {
+                "first" : "John",
+                "last" : "Backus"
+        },
+        "contribs" : [
+                "Fortran",
+                "ALGOL",
+                "Backus-Naur Form",
+                "FP"
+        ],
+        "awards" : [
+                {
+                        "award" : "W.W. McDowell Award",
+                        "year" : 1967,
+                        "by" : "IEEE Computer Society"
+                },
+                {
+                        "award" : "Draper Prize",
+                        "year" : 1993,
+                        "by" : "National Academy of Engineering"
+                }
+        ]
+}
+
+student = {
+        "_id" : 1,
+        "name" : {
+                "first" : "John",
+                "last" : "Backus"
+        },
+        "contribs" : [
+                "Fortran",
+                "ALGOL",
+                "Backus-Naur Form",
+                "FP"
+        ],
+        "awards" : [
+                {
+                        "award" : "W.W. McDowell Award",
+                        "year" : 1967,
+                        "by" : "IEEE Computer Society"
+                },
+                {
+                        "award" : "Draper Prize",
+                        "year" : 1993,
+                        "by" : "National Academy of Engineering"
+                }
+        ]
+}
+
+student = 
+{
+  [
+   {
+        "_id" : 2,
+        "name" : {
+                "first" : "Lohn",
+                "last" : "Dackus"
+        },
+        "contribs" : [
+                "Fortran/COBOL",
+                "ALGOL/MIPS",
+                "Backus-Naur Form",
+                "FPT"
+        ],
+        "awards" : [
+                {
+                        "award" : "W.W. McDowell Award",
+                        "year" : 1968,
+                        "by" : "IEEE Computer Society"
+                },
+                {
+                        "award" : "Draper Prize",
+                        "year" : 1991,
+                        "by" : "National Academy of Engineering"
+                }
+        ]
+   },
+student = 
+{
+        "_id" : 3,
+        "name" : {
+                "first" : "Lohnnite",
+                "last" : "Dackus that"
+        },
+        "contribs" : [
+                "Fortran/COBOL",
+                "ALGOL/MIPS",
+
+        ],
+        "awards" : [
+                {
+                        "award" : "W.W. McDowell Award",
+                        "year" : 1978,
+                        "by" : "IEC Computer Society"
+                },
+                {
+                        "award" : "Draper Prize",
+                        "year" : 1999,
+                        "by" : "National Academy of Arts"
+                }
+        ]
+}
+
+
+student = 
+{
+        "_id" : 4,
+        "name" : {
+                "first" : "HULK",
+                "last" : " that"
+        },
+        "contribs" : [
+                "Fortran/COBOL"
+
+        ],
+        "awards" : [
+                {
+                        "award" : " Award",
+                        "year" : 1988,
+                        "by" : "Computer Society"
+                },
+                {
+                        "award" : " Prize",
+                        "year" : 1989,
+                        "by" : "National Academy "
+                }
+        ]
+}
+
+
+student = [
+  {
+        "_id" : 1,
+        "name" : {
+                "first" : "John",
+                "last" : "Backus"
+        },
+        "contribs" : [
+                "Fortran",
+                "ALGOL",
+                "Backus-Naur Form",
+                "FP"
+        ],
+        "awards" : [
+                {
+                        "award" : "W.W. McDowell Award",
+                        "year" : 1967,
+                        "by" : "IEEE Computer Society"
+                },
+                {
+                        "award" : "Draper Prize",
+                        "year" : 1993,
+                        "by" : "National Academy of Engineering"
+                }
+        ]
+}
+{
+        "_id" : 2,
+        "name" : {
+                "first" : "Lohn",
+                "last" : "Dackus"
+        },
+        "contribs" : [
+                "Fortran/COBOL",
+                "ALGOL/MIPS",
+                "Backus-Naur Form",
+                "FPT"
+        ],
+        "awards" : [
+                {
+                        "award" : "W.W. McDowell Award",
+                        "year" : 1968,
+                        "by" : "IEEE Computer Society"
+                },
+                {
+                        "award" : "Draper Prize",
+                        "year" : 1991,
+                        "by" : "National Academy of Engineering"
+                }
+        ]
+}
+{
+        "_id" : 3,
+        "name" : {
+                "first" : "Lohnnite",
+                "last" : "Dackus that"
+        },
+        "contribs" : [
+                "Fortran/COBOL",
+                "ALGOL/MIPS"
+        ],
+        "awards" : [
+                {
+                        "award" : "W.W. McDowell Award",
+                        "year" : 1978,
+                        "by" : "IEC Computer Society"
+                },
+                {
+                        "award" : "Draper Prize",
+                        "year" : 1999,
+                        "by" : "National Academy of Arts"
+                }
+        ],
+        "Id" : 3.22
+}
+{
+        "_id" : 4,
+        "name" : {
+                "first" : "HULK",
+                "last" : " that"
+        },
+        "contribs" : [
+                "Fortran/COBOL"
+        ],
+        "awards" : [
+                {
+                        "award" : " Award",
+                        "year" : 1988,
+                        "by" : "Computer Society"
+                },
+                {
+                        "award" : " Prize",
+                        "year" : 1989,
+                        "by" : "National Academy "
+                }
+        ]
+}
+]
