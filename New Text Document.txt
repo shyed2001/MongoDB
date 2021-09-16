@@ -1,0 +1,15 @@
+mongodb+srv://shyed2001:shyed2001@edrpymongdb1.ujuxe.mongodb.net/PyMongoDB1
+mongodb+srv://shyed2001:<password>@edrpymongdb1.ujuxe.mongodb.net/test
+mongodb+srv://shyed2001:<password>@edrpymongdb1.ujuxe.mongodb.net/test
+
+
+mongo "mongodb+srv://edrpymongdb1.ujuxe.mongodb.net/PyMongoDB1" --username shyed2001
+
+mongo "mongodb+srv://edrpymongdb1.ujuxe.mongodb.net/<myFirstDatabase>" --username shyed2001
+
+mongodb+srv://shyed2001:shyed2001@edrpymongdb1.ujuxe.mongodb.net/PyMongoDB1?retryWrites=true&w=majority
+
+
+client = pymongo.MongoClient("mongodb+srv://shyed2001:<password>@edrpymongdb1.ujuxe.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
+db = client.test
+
